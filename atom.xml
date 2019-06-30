@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://iKingWong.github.io/</id>
+    <title>iKing&apos;s Blog</title>
+    <updated>2019-06-27T15:37:03.393Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://iKingWong.github.io/"/>
+    <link rel="self" href="https://iKingWong.github.io//atom.xml"/>
+    <subtitle>Just my blog</subtitle>
+    <logo>https://iKingWong.github.io//images/avatar.png</logo>
+    <icon>https://iKingWong.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2019, iKing&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, World]]></title>
+        <id>https://iKingWong.github.io//post/a-new-blog</id>
+        <link href="https://iKingWong.github.io//post/a-new-blog">
+        </link>
+        <updated>2019-06-16T16:43:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>你好，世界。之前因为一些原因，删掉了 GitHub 中的全部记录，捎带着陪伴我3年的 Blog 也一起消逝。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你好，世界。之前因为一些原因，删掉了 GitHub 中的全部记录，捎带着陪伴我3年的 Blog 也一起消逝。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone XR 入手一周的喜欢和不喜欢]]></title>
+        <id>https://iKingWong.github.io//post/iPhone-XR</id>
+        <link href="https://iKingWong.github.io//post/iPhone-XR">
+        </link>
+        <updated>2019-04-30T17:07:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>在入手 iPhone XR 128g 红色版一周之后，我写下了这篇算不上评测的文章，来分享一下我对这部手机的喜欢和不喜欢</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在入手 iPhone XR 128g 红色版一周之后，我写下了这篇算不上评测的文章，来分享一下我对这部手机的喜欢和不喜欢</p>
+]]></content>
+    </entry>
+</feed>
